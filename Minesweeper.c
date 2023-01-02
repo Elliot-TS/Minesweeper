@@ -166,7 +166,7 @@ int main (void)
     srand(time(NULL));
 
     // Ask if user wants to play the game or test the game
-    test_screen();
+    /*test_screen();*/
 
     // Map
     int width, height, num_mines;
